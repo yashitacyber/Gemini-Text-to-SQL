@@ -1,0 +1,17 @@
+# API Keys
+.env
+
+# Virtual Environments
+venv/
+venv-linux/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# Database temporary files
+*.db-journal
